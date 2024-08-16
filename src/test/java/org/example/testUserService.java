@@ -1,15 +1,11 @@
 package org.example;
 
-import org.example.UserService;
-import org.example.User;
-
-import static org.mockito.Mockito.*;
 import org.junit.Before;
 import org.junit.jupiter.api.*;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import static org.junit.jupiter.api.Assertions.*;
-import org.mockito.MockitoAnnotations;
+
 
 
 @DisplayName("Testing for user service class")
